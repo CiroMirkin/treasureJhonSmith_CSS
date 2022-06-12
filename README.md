@@ -9,4 +9,4 @@ The websites dont uses the same pictures or fonts, but it goes with the same pal
 ![Desing](./desing.jpg)
 
 ---
-[Github](https://github.com/vacio-informatico/) | [Instagram](https://instagram/vacio_informatico)
+[Github](https://github.com/CiroMirkin/) | [My blog - Instagram](https://instagram/vacio_informatico)
